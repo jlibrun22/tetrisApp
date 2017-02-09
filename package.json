@@ -1,0 +1,19 @@
+{
+  "name": "tetris",
+  "version": "1.0.0",
+  "description": "Playing around with some different technologies and making a tetris application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlibrun22/tetrisApp.git"
+  },
+  "author": "Josh Librun",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jlibrun22/tetrisApp/issues"
+  },
+  "homepage": "https://github.com/jlibrun22/tetrisApp#readme"
+}
